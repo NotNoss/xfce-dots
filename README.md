@@ -35,10 +35,10 @@ sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/
 
 ```bash
 git clone https://github.com/NotNoss/xfce-dots.git ~/.config/dotfiles
-ln -s ~/.config/kitty ~/.config/dotfiles/kitty
-ln -s ~/.config/picom ~/.config/dotfiles/picom
-ln -s ~/.config/spicetify/Themes/TokyoNight-spicetify ~/.config/spicetify/TokyoNight-spicetify
+ln -s ~/.config/dotfiles/kitty ~/.config/kitty
+ln -s ~/.config/dotfiles/picom ~/.config/picom
+ln -s ~/.config/spicetify/TokyoNight-spicetify ~/.config/spicetify/Themes/TokyoNight-spicetify
 rm -f ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
-ln -s ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml ~/.config/dotfiles/xfce/panel/xfce4-panel.xml
-rm -f ~/.zshrc ~/.config/dotfiles/.zshrc
+ln -s ~/.config/dotfiles/xfce/panel/xfce4-panel.xml ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
+rm -f ~/.config/dotfiles/.zshrc ~/.zshrc
 ```
