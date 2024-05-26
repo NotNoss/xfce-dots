@@ -20,13 +20,11 @@ ZSH
 Below are also helpful links for setting up the theme.
 If I forgot any, I will upload the link here.
 
-```
 [New Tab Redirect](https://chromewebstore.google.com/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna)
 [Tokyonight XFCE Theme](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme)
 [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 [Vencord Theme](https://betterdiscord.app/theme/Tokyo%20Night)
 [Tokyonight Browser Theme](https://chromewebstore.google.com/detail/tokyonight/enpfonmmpgoinjpglildebkaphbhndek)
-```
 
 ## Installation
 ```bash
